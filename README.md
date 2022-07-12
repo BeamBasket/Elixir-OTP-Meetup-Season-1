@@ -18,3 +18,25 @@ We list Topic, sub-topic, Presenter and Link to Code, Youtube.
 ### Genserver
 - Introduction. Arpan Ghoshal [Code](https://github.com/TwistingTwists/learning-concurrent-elixir/blob/master/genservers.ex) [YouTube](https://youtu.be/0573cOeElNQ)
 - Building Genserver from Scratch. part 1. Sandesh Soni [YouTube](https://youtu.be/DEbBZzEu5Rs)
+
+### ETS and Mnesia
+- Ets, Dets
+- Mnesia
+- RocksDB
+
+### Registry
+- Introduction
+
+### Supervisor
+- Type
+- Dynamic Supervisor
+- Application
+
+### Genstage
+- Genstage Producer
+- Genstage Consumer
+
+### Flow
+
+### NEF
+- Native Erlang Function, Introduction
